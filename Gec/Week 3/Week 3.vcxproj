@@ -19,6 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="program10ShareOfHaribo.cpp" />
+    <ClCompile Include="program11Doom.cpp" />
     <ClCompile Include="program9.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

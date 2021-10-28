@@ -18,5 +18,11 @@
     <ClCompile Include="program9.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="program10ShareOfHaribo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="program11Doom.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
